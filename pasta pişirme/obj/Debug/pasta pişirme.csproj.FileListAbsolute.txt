@@ -1,0 +1,18 @@
+C:\Users\asus\Desktop\udemy kurs\pasta pişirme\pasta pişirme\bin\Debug\pasta pişirme.exe.config
+C:\Users\asus\Desktop\udemy kurs\pasta pişirme\pasta pişirme\obj\Debug\pasta pişirme.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\udemy kurs\pasta pişirme\pasta pişirme\obj\Debug\pasta_pişirme.Form1.resources
+C:\Users\asus\Desktop\udemy kurs\pasta pişirme\pasta pişirme\obj\Debug\pasta_pişirme.Properties.Resources.resources
+C:\Users\asus\Desktop\udemy kurs\pasta pişirme\pasta pişirme\obj\Debug\pasta pişirme.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\udemy kurs\pasta pişirme\pasta pişirme\bin\Debug\pasta pişirme.exe
+C:\Users\asus\Desktop\udemy kurs\pasta pişirme\pasta pişirme\bin\Debug\pasta pişirme.pdb
+C:\Users\asus\Desktop\udemy kurs\pasta pişirme\pasta pişirme\obj\Debug\pasta pişirme.exe
+C:\Users\asus\Desktop\udemy kurs\pasta pişirme\pasta pişirme\obj\Debug\pasta pişirme.pdb
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\pasta pişirme\pasta pişirme\bin\Debug\pasta pişirme.exe.config
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\pasta pişirme\pasta pişirme\obj\Debug\pasta pişirme.exe
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\pasta pişirme\pasta pişirme\obj\Debug\pasta pişirme.pdb
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\pasta pişirme\pasta pişirme\bin\Debug\pasta pişirme.exe
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\pasta pişirme\pasta pişirme\bin\Debug\pasta pişirme.pdb
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\pasta pişirme\pasta pişirme\obj\Debug\pasta pişirme.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\pasta pişirme\pasta pişirme\obj\Debug\pasta_pişirme.Form1.resources
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\pasta pişirme\pasta pişirme\obj\Debug\pasta_pişirme.Properties.Resources.resources
+C:\Users\asus\Desktop\udemy kurs\c#form projeleri\pasta pişirme\pasta pişirme\obj\Debug\pasta pişirme.csproj.GenerateResource.Cache
